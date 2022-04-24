@@ -7,4 +7,4 @@ os.system('pip install pystyle')
 
 import zipfile
 with zipfile.ZipFile('DATA.zip', 'r') as zip_ref:
-    zip_ref.extractall('DATA')
+    zip_ref.extractall('Data')
